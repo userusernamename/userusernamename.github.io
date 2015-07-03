@@ -1,6 +1,3 @@
-<html>
-<body>
-<p>
 Mustafa Mashhur, General Guide, Muslim Brotherhood, Egypt; Qazi Hussain Ahmed, Ameer, Jamaat-e-Islami Pakistan, Pakistan; Muti Rahman Nizami, Ameer, Jamaat-e-Islami Bangladesh, Bangladesh; Shaykh Ahmad Yassin, Founder, Islamic Resistance Movement (Hamas), Palestine; Rashid Ghannoushi, President, Nahda Renaissance Movement, Tunisia; Fazil Nour, President, PAS – Parti Islam SeMalaysia, Malaysia; and 40 other Muslim scholars and politicians: “The undersigned, leaders of Islamic movements, are horrified by the events of Tuesday 11 September 2001 in the United States which resulted in massive killing, destruction and attack on innocent lives. We express our deepest sympathies and sorrow. We condemn, in the strongest terms, the incidents, which are against all human and Islamic norms. This is grounded in the Noble Laws of Islam which forbid all forms of attacks on innocents. God Almighty says in the Holy Qur’an: ‘No bearer of burdens can bear the burden of another’ (Surah al-Isra 17:15).” MSANews, September 14, 2001 (via archive.org). Arabic original in al-Quds al-Arabi (London), September 14, 2001, p. 2.
 Shaykh Yusuf Qaradawi, Qatar; Tariq Bishri, Egypt; Muhammad S. Awwa, Egypt; Fahmi Huwaydi, Egypt; Haytham Khayyat, Syria; Shaykh Taha Jabir al-Alwani, U.S.: “All Muslims ought to be united against all those who terrorize the innocents, and those who permit the killing of non-combatants without a justifiable reason. Islam has declared the spilling of blood and the destruction of property as absolute prohibitions until the Day of Judgment. … [It is] necessary to apprehend the true perpetrators of these crimes, as well as those who aid and abet them through incitement, financing or other support. They must be brought to justice in an impartial court of law and [punished] appropriately. … [It is] a duty of Muslims to participate in this effort with all possible means.” Statement of September 27, 2001.
 Shaykh Muhammed Sayyid al-Tantawi, imam of al-Azhar mosque in Cairo, Egypt: “Attacking innocent people is not courageous, it is stupid and will be punished on the day of judgement. … It’s not courageous to attack innocent children, women and civilians. It is courageous to protect freedom, it is courageous to defend oneself and not to attack.” Agence France Presse, September 14, 2001
@@ -33,9 +30,5 @@ Muqtedar Khan, then an assistant professor of political science, Adrian College,
 Dr. Alaa Al-Yousuf, Bahraini economist and political activist: “On Friday, 14 September [the first Friday prayers after 11 September], almost the whole world expressed its condemnation of the crime and its grief for the bereaved families of the victims. Those who abstained or, even worse, rejoiced, will have joined the terrorists, not in the murder, but in adding to the incalculable damage on the other victims of the atrocity, namely, Islam as a faith, Muslims and Arabs as peoples, and possibly the Palestinian cause. The terrorists and their apologists managed to sully Islam as a faith both in the eyes of many Muslims and non-Muslims alike.” Interview with the International Forum for Islamic Dialogue, London (via archive.org).
 
 -http://www.beliefnet.com/columnists/commonwordcommonlord/2014/08/think-muslims-havent-condemned-isis-think-again.html
-
-List of muslim-majority countries fighting ISIS
 Jordan, Morocco, Bahrain, Qatar, Saudi Arabia, UAE, Iran, Lebanon/Hezbollah, Kurdistan, Egypt, Libya
-</p>
-</body>
-</html>
+
